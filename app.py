@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 from langchain_google_genai import ChatGoogleGenerativeAI
 import pytesseract as pyt
 from tavily import TavilyClient
-from langchain.messages import SystemMessage, HumanMessage
+from langchain.messages import SystemMessage, HumanMessage 
 import numpy as np
 import streamlit as st
 
